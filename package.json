@@ -1,0 +1,9 @@
+{
+  "name": "goodday-v2",
+  "version": "2.0.0",
+  "description": "GoodDay - Motivasi Islami Harian",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  }
+}
